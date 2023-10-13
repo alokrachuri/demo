@@ -1,3 +1,3 @@
 # demo
 This is my first github repository
-Author:Alok Rachuri
+Author:Alok Rachuri(AR)
